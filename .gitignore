@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# EXPERIMENTAL notebooks
+xp_*
+
+.DS_Store
+
+# TSV file
+*.tsv
